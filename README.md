@@ -65,6 +65,7 @@ Assuming you have git, follow the following process
 <br>
 
 <hr>
+
 ## 👩‍💻 Team members
 
 - [**Naman Kothari**](https://github.com/NamanKothari5)
