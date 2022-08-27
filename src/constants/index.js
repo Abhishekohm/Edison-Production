@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "support-2",
     type: "Telephonic support",
-    content: "You can call us on +1 860-295-3477 and talk with our bot to clarify your queries. This feature will help people who do not have access to internet.",
+    content: "You can call us on +1 512-518-0683 and talk with our bot to clarify your queries. This feature will help people who do not have access to internet.",
     img: call_bot,
     static_img: call_bot_static,
     link: "tel:+1 512-518-0683"
